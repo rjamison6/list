@@ -1,6 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-
 main{
 	width:900px;
 	margin:0
@@ -9,13 +8,15 @@ main{
 }
 header{
 	height:100px;
-	color:hotpink;
+	
+	
+	
 }
-
 header h1{
+	width: 300px; 
 	font-family: gautreaux, sans-serif;
     font-weight: 700;
     font-style: normal;
 	font-size: 30px;
-	color: darkslategrey;
+	color:darkslategrey;
 }
